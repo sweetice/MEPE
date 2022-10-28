@@ -1,0 +1,17 @@
+torch==1.7.1+cu101
+numpy==1.18.1
+gym==0.12.1
+pybullet==2.7.1
+roboschool==1.0.48
+pandas==1.0.1
+tqdm
+scikit-image
+tensorboard
+torch
+torchvision
+gym==0.25.1
+patchelf
+termcolor
+seaborn==0.9.0
+opencv-python
+kornia
